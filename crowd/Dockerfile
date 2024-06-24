@@ -1,0 +1,1 @@
+FROM atlassian/crowd:latest
